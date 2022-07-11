@@ -1,0 +1,2459 @@
+[
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "1",
+        "name": "UJS_1",
+        "name_of_implementing_agency": "Bharata Ratna mahila Mandali",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "4369-J Vivekananda Nagar  Kadapa District",
+        "mobile_email": "9849050422",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.836518758,
+          14.460156491,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "2",
+        "name": "UJS_3",
+        "name_of_implementing_agency": "Annie  Owe Memorial Orphanage",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "HNo 13-99  near Inter Mess  Eluru  Vidyanagar  West  Godavari Distt",
+        "mobile_email": "9908320943 aomosusseela@yahoo com",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.075835321,
+          16.705216317,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "3",
+        "name": "UJS_2",
+        "name_of_implementing_agency": "JMD  Social  Service Society",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Nallapadu-522005  Guntur district",
+        "mobile_email": "9441394798",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.386721232,
+          16.299107012,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "4",
+        "name": "UJS_4",
+        "name_of_implementing_agency": "Sai  Lakitha Education Development Society",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Door No 381  near CMI Degree College behind MP DO officer  Parvathi nagar Area  Kalyandurg  Anantapur distt",
+        "mobile_email": "9440984298 ghnagaraju@gmail com",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.602369017,
+          14.680473896,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "5",
+        "name": "UJS_5",
+        "name_of_implementing_agency": "Rescue  home co-managed by  Vasavya Mahila mandali",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "",
+        "mobile_email": "",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.655812254,
+          16.49852039,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "6",
+        "name": "UJS_6",
+        "name_of_implementing_agency": "Integrated Dev Association PO ChamatapatharPS Sonapur Dist Kamrup(M) Assam",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Integrated Development Association  Opp Superintendent of Police Office  Ho Mrs Minu Das  Bapujinagar P O Baladmari   P S & Dist Goalpara  Assam  Pin 783121",
+        "mobile_email": "9435733622 Sanjayida@gmail com",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.980178625,
+          26.117285262,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "7",
+        "name": "UJS_7",
+        "name_of_implementing_agency": "Assam Centre for Rural Development 3A Saroj Enclave  K C Patowary Road   PO Ulubari  Guwahati – 781007  email -acrd1995@gmailcom",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Navajeevan Rehabilitation Home for Women & girls  Sikharhati (Barihat) near Mirza  PO- Sikharhati PS- PalasbariPin no- 781125 Dist- Kamrup rural  Assam",
+        "mobile_email": "Acrd1995@gmail com  9899360694",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.504046022,
+          26.039876517,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "8",
+        "name": "UJS_8",
+        "name_of_implementing_agency": "Global Organization for Life Development (GOLD) Pub Sarania Guwahati-3",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Global Oraganization For Life Development (Gold)   H no 42  Chandmari Colony  Nizarapar Sudhakantha Path  Opp-Durga Mandir PO- Silpukhuri  P S-Chandmari  Guwahati   Pin No -781003  DistKamrup(Metro)   Assam  email :- rks_ghy@yahoocom P No 9864071827",
+        "mobile_email": "0361-2523155  9435042322 Rks_ghy@yahoo com",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.772010425,
+          26.181498991,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "9",
+        "name": "UJS_9",
+        "name_of_implementing_agency": "Karpungpuli (KD) Society  Saboti PO North Lakhimpur Dist Lakhimpur  Pin 787001",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Mrs Debajani Doley  wo Ghana Kanta Doley  Village- Nalinipam  PO & Dist  Dhemaji  Assam Pin 787057   Phone - 9435189392  Email- karpungpuli_society@yahoocom",
+        "mobile_email": "9435189392    8811905317 Karpungpili_society@yahoo com",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.194014772,
+          27.409086983,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "10",
+        "name": "UJS_10",
+        "name_of_implementing_agency": "Golaghat Nirman Mahila Gut Bengenakhowa Near Railway Gate  Law College Road PO Golaghat-785621",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Tapan Nagar  near Namghar  PO  P S  Dist Golaghat",
+        "mobile_email": "gnmgutngo@gmail com   8752886767",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.969003836,
+          26.508426644,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "11",
+        "name": "UJS_11",
+        "name_of_implementing_agency": "North East Voluntary Association of Rural Development (NEVARD) Dakhingaon Kahilipara Guwahati",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "North East Voluntary Association of Rural Development (NEVARD)  Beparipatty Gauripur (Tiamari Road)   Ward no 4  PO & PS Gauripur   Dist - Dhubri Pin-783331 Phone no 9957146553 Email nevardassam@gamilcom",
+        "mobile_email": "nevardassam@gmail com  7896473699",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.776538626,
+          26.144758073,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "12",
+        "name": "UJS_12",
+        "name_of_implementing_agency": "North East Voluntary Association of Rural Development (NEVARD) Dakhingaon Kahilipara Guwahati Development (NEVARD) Dakhingaon Kahilipara Guwahati",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "North East Voluntary Association of Rural Development (NEVARD)  Beparipatty Gauripur (Tiamari Road)   Ward no 4  PO & PS Gauripur   Dist - Dhubri Pin-783331 Phone no 9957146553 Email nevardassam@gamilcom 23  PO  PS  Dist - Bongaigaon Pin-783380 Phone no",
+        "mobile_email": "nevardassam@gmail com  7896473699",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.776501521,
+          26.144733193,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "13",
+        "name": "UJS_13",
+        "name_of_implementing_agency": "North East Voluntary Association of Rural Development (NEVARD) Dakhingaon Kahilipara Guwahati",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "North East Voluntary Association of Rural Development (NEVARD)  Habrubari  Tengapara Road  Ward no 9  PO  PS  Dist - Kokrajhar Pin783370 Phone no 9957146553 Email nevardassam@gamilcom",
+        "mobile_email": "nevardassam@gmail com 7896473699",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.776516616,
+          26.144760865,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "14",
+        "name": "UJS_14",
+        "name_of_implementing_agency": "Guwahati Youth Society (GYS) Dakhingaon Tiniali Kahilipara Guwahati",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Guwahati Youth Society (GYS)  House no 11997 Jalukbari Habib Chowk  M B Road   PO Tangla  PS Tangla Dist Udalguri - 784521 Phone 7086998593 Email Ward no  1  PO Barpetaroad  PS Barpetaroad  Dist Barpeta - 781315 Phone 7086998593 Email guwahatisocrty@redi",
+        "mobile_email": "gyassam@rediffmail com   9957146553",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.796657216,
+          26.184041732,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "15",
+        "name": "UJS_15",
+        "name_of_implementing_agency": "Guwahati Youth Society (GYS) Dakhingaon Tiniali Kahilipara Guwahati Dakhingaon Tiniali Kahilipara Guwahati",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Guwahati Youth Society (GYS)  House no 11997 Jalukbari Habib Chowk  M B Road   PO Tangla  PS Tangla Dist Udalguri - 784521 Phone 7086998593 Email Ward no  1  PO Barpetaroad  PS Barpetaroad  Dist Barpeta - 781315 Phone 7086998593 Email Guwaha",
+        "mobile_email": "gyassam@rediffmail com  9957146553",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.796744753,
+          26.184048939,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "16",
+        "name": "UJS_16",
+        "name_of_implementing_agency": "Rogurtook Club & Library Gandhi Road Nalambazar Dist Karimganj",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Roghurtook Club and library   Jathrapur Road  Nilambazar   Po Nilambazar   PS Nilambazar   Dist Karimganj  Pin 788724",
+        "mobile_email": "roghutookclub@gmail com  8812962002",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.350092762,
+          24.745389446,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "17",
+        "name": "UJS_17",
+        "name_of_implementing_agency": "Eight Brothers Social Welfare SocietyPO Tezpur Dist Sonitpur Assam",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Eight Brothere Social Welfare Society Near Rupam Petrol Pump PO Tezpur PS Tezpur Dist Sonitpur Pin 784001",
+        "mobile_email": "eightbrotherssocial@gmail com  9859128781",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.783525226,
+          26.637938053,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "18",
+        "name": "UJS_18",
+        "name_of_implementing_agency": "North East Rural Welfare Society Nagaon",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Doboka Town word no 10  ( Near Doboka 30 Bad CHC) PO- Doboka PS -Doboka Pin- 782440 Dist -Hojai State - Asssm Phone no 9435787175",
+        "mobile_email": "7002516124    9535787175 Nerws doboka@gmail com",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.863751325,
+          26.11619635,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "19",
+        "name": "UJS_19",
+        "name_of_implementing_agency": "North East Buddhist Cultural Association Niz Kadamoni PO Boiragimath Dibrugarh",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Ujjawala Home Chiring Tekela Gaon Bankim Chandra Phukan Path University Link Road PO Mohanaghat PS Dibrugarh",
+        "mobile_email": "nebca@nebca infor   9435085305",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.895567885,
+          27.464998793,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "20",
+        "name": "UJS_20",
+        "name_of_implementing_agency": "North East Buddhist Cultural Association Niz Kadamoni PO Boiragimath Dibrugarh Boiragimath Dibrugarh",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Ujjawala Home Behind Tinsukia College Kosujan PO & PS Tinsukia Tinsukia 786125",
+        "mobile_email": "nebca@nebca infor 9435085305",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.364315298,
+          27.497908507,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "21",
+        "name": "UJS_21",
+        "name_of_implementing_agency": "Dikrong Valley Environment & Rural Society Barpathar Lakhimpur",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "UJJAWALA HOME - DIKRONG VALLEY  ENVIRONMENT & RURAL DEVELOPMENT SOCIETY Barpathar  P O Gosaibari  PS Narayanpur  Dist Lakhimpur   787033",
+        "mobile_email": "9435384909 7896737965 Dikrongvalley11@gmail com",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.108535517,
+          27.243115656,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "22",
+        "name": "UJS_22",
+        "name_of_implementing_agency": "Barak Valley Welfare Development Society (NGO ) Ramkrishna Mission Road  Silchar  Dist Cachar",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Panchayat Road  House no 138 (b)  ward no- 20 PO- Silchar PS- Silchar Pin-788004 District- Cachar  Assam  Phone no- 03842-264122",
+        "mobile_email": "barakvalleyngo@gmail com   8876309650 9435909997 Wacdo01@rediffmail com",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.789579414,
+          24.81387183,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "23",
+        "name": "UJS_23",
+        "name_of_implementing_agency": "Women & Child Development Organization PO Nimaichandapur Dist Hailakandi",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Protective and Rehabilitation home of Ujjaala  Vill - B K Road  Fakir Tilla  Uttar Barik Nagar P O NIT REC  Silchar  District  Cachar",
+        "mobile_email": "",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.980280454,
+          24.67669489,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "24",
+        "name": "UJS_24",
+        "name_of_implementing_agency": "WODWICHEE PO Lakhshirbond Dist Hailakandi",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Ujjawala Home  WODWICHEE   Near Edn Complex  Old Hospital Road  PO  & Distt  Hailakandi  Pin 788151 (Assam)  wodwichee@gmailcom",
+        "mobile_email": "wodwichee@gmail com  9435079461",
+        "state": "Andhra Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.822710721,
+          24.812399626,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "25",
+        "name": "UJS_25",
+        "name_of_implementing_agency": "Social Revivial Group of Urban Rural  and Tribal (SROUT)Korba",
+        "name1": "Mr Dicson Masih",
+        "designation": "Presidnet",
+        "address_of_the_home": "Mr Balbir Agrawal  HNo 796  Ward No 36   Padimar Bhadarapara  Behind Gulab General Store  Indira Market  Balco Nagar  distt Korba (CG)",
+        "mobile_email": "sroutkorba@gmail com 9826680190 masih dic@gmail com",
+        "state": "Chhattisgarh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.758980312,
+          22.398565614,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "26",
+        "name": "UJS_26",
+        "name_of_implementing_agency": "Chhattigarh Prachar  and Vikash Sansthan Koria",
+        "name1": "Mr  Anil Kumar Mishra",
+        "designation": "Secretary",
+        "address_of_the_home": "Near Lok Parlok Dhaba  Chhind Dand  MG Road Baikunthpur  Dist Koria (CG)",
+        "mobile_email": "9644064222 9826318850 scgpvs@yahoo com",
+        "state": "Chhattisgarh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.554767964,
+          23.290109183,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "27",
+        "name": "UJS_27",
+        "name_of_implementing_agency": "Shree \tSiddhi Khadi Gramodyog Kelvani Sanstha  District \t– Ahmedabad",
+        "name1": "Smt Jyoti Devetiya",
+        "designation": "Manager",
+        "address_of_the_home": "Padmavati Society  Opposite to Indranagar-2 Lambha  Ahmedabad",
+        "mobile_email": "8690610007 Siddhitrust1998@gmail com",
+        "state": "Gujarat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.657120294,
+          23.068532061,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "28",
+        "name": "UJS_28",
+        "name_of_implementing_agency": "SAMARPAN",
+        "name1": "MrIndramani Sahu",
+        "designation": "Secretary",
+        "address_of_the_home": "At Patratu Mohalla  PO Hurhuru  Near Yuraj Marriage Place Hazaribagh  Jharkhand – 825301",
+        "mobile_email": "9934148413 9534048713 Samarpanjharkhand@gmail com",
+        "state": "Jharkhand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3734992,
+          23.9736192,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "29",
+        "name": "UJS_29",
+        "name_of_implementing_agency": "Gramin Samaj Kalyan Vikas  Manch Policeline RoadDaltonganj PalamuJharkhand  –822101",
+        "name1": "MdHashmat Rabbani",
+        "designation": "Secretary",
+        "address_of_the_home": "Birsanagar Shahpur  Daltonganj  Palamu – 822110",
+        "mobile_email": "hashmat@gmail com  9431159447",
+        "state": "Jharkhand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.056567495,
+          24.024929337,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "30",
+        "name": "UJS_30",
+        "name_of_implementing_agency": "Supreme Vidya Samsthe",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Post Box No 14  Behind IB  Basavanagar  Ward – 2  Baglkot district",
+        "mobile_email": "Svs_1995@yahoo co in  9880840090",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.702829532,
+          16.188879627,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "31",
+        "name": "UJS_31",
+        "name_of_implementing_agency": "Sarvodaya Service society",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Sidlaghatta  road  Vijayapura – Devanahall  Taluk  Bengaluru Rural",
+        "mobile_email": "9980123452",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.804025218,
+          13.30877991,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "32",
+        "name": "UJS_32",
+        "name_of_implementing_agency": "Vidyaranya Education Development",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Mandur  Virgonagar (Via) Bengaluru  East  Bengaluru – 560049",
+        "mobile_email": "vedsmandur@yahoo c om  8123963850",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.738090062,
+          13.08290834,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "33",
+        "name": "UJS_33",
+        "name_of_implementing_agency": "Paraspara Trust",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "No 3  Yeshoram building  1st Floor 1st E Cross 3rd Main  Behind govt Primary School  Mathikere  Bangalore – 54",
+        "mobile_email": "Paraspara2001@yaho o com 9482216080",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.560488525,
+          13.034735283,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "34",
+        "name": "UJS_34",
+        "name_of_implementing_agency": "The Women’s Society",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "No 146  Sector No 2  Belagaum",
+        "mobile_email": "wwsbelgaum@gmail c om  9448446353",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.521433783,
+          15.879153667,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "35",
+        "name": "UJS_35",
+        "name_of_implementing_agency": "Sahana  Rural  Development Society",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "No 64  8th Sector Anjaneya Nagar Belagavi distt",
+        "mobile_email": "Belagavisahanango7@ gmail com 8884783842",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.538966003,
+          15.87814832,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "36",
+        "name": "UJS_36",
+        "name_of_implementing_agency": "Shimmer Urban & Rural Development",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "RA Gulbarga  opp  malsa  Nursinghome  SR Colony   Jalnagar  Vijyapur district",
+        "mobile_email": "sngobijapur@gmail co m  9036899938",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.727472389,
+          16.807188831,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "37",
+        "name": "UJS_37",
+        "name_of_implementing_agency": "Siddeshwara Rural Development Society",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Opp  Bescom  office  Challakere road  Hiryur  Chitradurga district",
+        "mobile_email": "Siddeswara 209@gmail com 9900973339",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.613345882,
+          13.962867994,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "38",
+        "name": "UJS_38",
+        "name_of_implementing_agency": "Sri Basaveswara Vidya Samste",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Garehatti  Chitradurga – district  Pin – 577502",
+        "mobile_email": "bvsamsthe@yahoo in   9448038400",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.38081135,
+          14.23138017,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "39",
+        "name": "UJS_39",
+        "name_of_implementing_agency": "Sri  Maitri Association",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "No 242  Sugar Factory road  Doddabathi Devangere district  Pin – 577566",
+        "mobile_email": "srimaitri@gmail com 7829999111",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.855087062,
+          14.485924005,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "40",
+        "name": "UJS_40",
+        "name_of_implementing_agency": "Sneha Edn And Devlp Soceity",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "No 132  Vasasnthnagar  4th Cross  P & T Colony  Near Ganesh Temple  keshavpura  Hubli  580023 Dharward distt",
+        "mobile_email": "snehabharthiedusociet y@yahoo in   8748089752",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.156613138,
+          15.36206998,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "41",
+        "name": "UJS_41",
+        "name_of_implementing_agency": "Sunitha Welfare Association",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Hubli road  Zoo cross  RTO opp  Gadag-582103 Gadag distt",
+        "mobile_email": "srimaitri@gmail com  7829999118",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.603803823,
+          15.38440937,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "42",
+        "name": "UJS_42",
+        "name_of_implementing_agency": "Self  Employment Training Centre  and Rural Development Society",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Hudco colony  3rd Cross  Gadag distt Pin- 582103",
+        "mobile_email": "setcrds@gmail com 8762656644",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.008256475,
+          11.023301,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "43",
+        "name": "UJS_43",
+        "name_of_implementing_agency": "Shwetha Vidya Samsthe (NGO)",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Sri Manjunatheshware ITI Building   Dasara Koppalu  Salgame Road  Hassan distt",
+        "mobile_email": "mouryamgowda@gmail com 9448330386",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.101140272,
+          13.034076742,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "44",
+        "name": "UJS_44",
+        "name_of_implementing_agency": "Seva Trust For the Blind",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "1st Main Road  Maruthi Nagar  Ranebennur  Haveri  distt",
+        "mobile_email": "Shivakumarhr944@gmail com 9448309957",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.61905155,
+          14.61718135,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "45",
+        "name": "UJS_45",
+        "name_of_implementing_agency": "Jnana  Vikas Education Trust",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Chinakurali  Pandavapura taluk  Mandya distt",
+        "mobile_email": "j v education243@gmail com 9480314133",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.598593312,
+          12.541911897,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "46",
+        "name": "UJS_46",
+        "name_of_implementing_agency": "",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "",
+        "mobile_email": "",
+        "state": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.822965122,
+          13.705579754,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "47",
+        "name": "UJS_47",
+        "name_of_implementing_agency": "Janachetana",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "1-4-1360511  1st floor  IDSMT Layout  AIR Road  Raichur distt Pin – 584101",
+        "mobile_email": "janachethana@gmail com 9448192911",
+        "state": "Karnataka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.354694589,
+          16.190308343,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "48",
+        "name": "UJS_48",
+        "name_of_implementing_agency": "Cultural Academy for Peace",
+        "name1": "Beena Sebastian",
+        "designation": "Chairperson",
+        "address_of_the_home": "Shanthibhavan Near Ksrtc Bus Stand Kammattipadam Ernakulam  Pin – 682035",
+        "mobile_email": "culturalacademy@gmail com",
+        "state": "Kerala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.28268686,
+          9.982444318,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "49",
+        "name": "UJS_49",
+        "name_of_implementing_agency": "StBernadette Home",
+        "name1": "StPhilomina Cherian",
+        "designation": "Project director",
+        "address_of_the_home": "St Bernadette Home CO St Vincent’s Home convent Road  Calicut –673032",
+        "mobile_email": "stbernadettehome@y ahoo com  9995645932",
+        "state": "Kerala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.775601708,
+          11.25334557,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "50",
+        "name": "UJS_50",
+        "name_of_implementing_agency": "Magas Janseva Samiti",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "A 45 old MIDC latur  Latur 413531  Plot No 39  behind our lady Church  Kandiwali West Mumbai – 67",
+        "mobile_email": "02382-227005 bvmmlatur@yahoo co m   022-28060707 admin@rescuegfoundation nt",
+        "state": "Maharashtra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.557324557,
+          18.409156405,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "51",
+        "name": "UJS_51",
+        "name_of_implementing_agency": "Rescue Foundation",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Plot No 39  behind our lady Church  Kandiwali",
+        "mobile_email": "022-28060707",
+        "state": "Maharashtra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.838575289,
+          19.206795017,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "52",
+        "name": "UJS_52",
+        "name_of_implementing_agency": "Resuce Foundation",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Sasanewasti  Mohamadwadi  road  hadassar  Pune district",
+        "mobile_email": "",
+        "state": "Maharashtra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.928967754,
+          18.48246968,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "53",
+        "name": "UJS_53",
+        "name_of_implementing_agency": "Rescue Foundation",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Bhisar   Polachapada  Palghar district",
+        "mobile_email": "",
+        "state": "Maharashtra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.761344856,
+          19.722820802,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "54",
+        "name": "UJS_54",
+        "name_of_implementing_agency": "Bal  vikas Mahila Mandal",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Natraj  house  Soet  Mitnagar  solapur  Latur – 413531",
+        "mobile_email": "02382-227005 bvmmlatur@yahoo co m",
+        "state": "Maharashtra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.564386734,
+          18.40010809,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "55",
+        "name": "UJS_55",
+        "name_of_implementing_agency": "Resource Development Agency",
+        "name1": "EDiptikumar Singh",
+        "designation": "Chief Functionary",
+        "address_of_the_home": "Babupara   Jirbam District",
+        "mobile_email": "8974366540",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.11929099,
+          24.803858434,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "56",
+        "name": "UJS_56",
+        "name_of_implementing_agency": "Action  for Women  & Child Advancement  Near SAS Gas Agency Lailam Veng  New Zoveng Churachandpur",
+        "name1": "Grace samnu",
+        "designation": "Chief Functionary",
+        "address_of_the_home": "S Munhoi Village  Near Solace Academy School  Churandpur District",
+        "mobile_email": "8787485719",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.647282272,
+          24.218240006,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "57",
+        "name": "UJS_57",
+        "name_of_implementing_agency": "Human  Care Foundation  heingang Mayi Leikai Imphal East",
+        "name1": "W  Jiten singh",
+        "designation": "Chief Functionary",
+        "address_of_the_home": "Pherzawl District HQ Phereal district",
+        "mobile_email": "9862813551",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.188976324,
+          24.262192054,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "58",
+        "name": "UJS_58",
+        "name_of_implementing_agency": "Zingsho Rural DevelopmentSociety (ZRDS) Ukhrul",
+        "name1": "David Shimray",
+        "designation": "Secretary",
+        "address_of_the_home": "Ujjawala Protective & Rehabiliation Home  Phungreitang  PO Ukhrul  Ukhrul district",
+        "mobile_email": "9436032056",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.360723649,
+          25.095709653,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "59",
+        "name": "UJS_59",
+        "name_of_implementing_agency": "All Bacward Classes and Economic Development Organization(ABCEDO) Samaram BazaarWangjingThoubal",
+        "name1": "Joyvita Martina Chara",
+        "designation": "Project Director",
+        "address_of_the_home": "Khukthar Village  PO Komlathabi  Chandel District",
+        "mobile_email": "8729966789",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.011211046,
+          24.412609631,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "60",
+        "name": "UJS_60",
+        "name_of_implementing_agency": "Community Welfare  and Development Society (CWDS) RoyatangUkhrul \n",
+        "name1": "Rizat Zimik",
+        "designation": "Vice President",
+        "address_of_the_home": "Royatang  PO Ukhrul  TD Block  Ukhrul District",
+        "mobile_email": "7085830853",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.361650302,
+          25.095414628,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "61",
+        "name": "UJS_61",
+        "name_of_implementing_agency": "Gomati Rainbow Mission Uripok Haorangbam Leikai  Imphal West",
+        "name1": "NChittaranjan",
+        "designation": "Project Director",
+        "address_of_the_home": "Salemram village  Mahci Block  PO Pallel  Tengnoupal",
+        "mobile_email": "7005150273",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02029825,
+          24.463772464,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "62",
+        "name": "UJS_62",
+        "name_of_implementing_agency": "Institute  of Communi Action  and Research Development(ICARD) K  Thiamdawi Village Senapati",
+        "name1": "Lamminlian Vaiphei",
+        "designation": "President",
+        "address_of_the_home": "Ahriana P & R Home K Themdoi Village PO Yaripok  PS Thoubal Dam Kangpokpi district",
+        "mobile_email": "8974208321",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.115862303,
+          24.796184479,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "63",
+        "name": "UJS_63",
+        "name_of_implementing_agency": "Bishwanath Mahila Kalyan Samiti (BMKS) Palace Compund",
+        "name1": "Rashi",
+        "designation": "Secretary",
+        "address_of_the_home": "Kairang Meitei  PO Mantripukhri  Near Dany’s garden Imphal East",
+        "mobile_email": "962549079",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.953480985,
+          24.815099892,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "64",
+        "name": "UJS_64",
+        "name_of_implementing_agency": "Integrated People's Development society Paomai Colony Imphal East",
+        "name1": "Phoebe Ruth",
+        "designation": "Secretary",
+        "address_of_the_home": "Appolo Bazaar  Tamenglong Bazar  Tanmenglong district HQ",
+        "mobile_email": "8974488915",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.500349805,
+          24.995474968,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "65",
+        "name": "UJS_65",
+        "name_of_implementing_agency": "Southern Manipur Rural Technology Service Institute(SMART)Machin Manao ChinglakKakching",
+        "name1": "Ms  WNandini Devi",
+        "designation": "Secretary",
+        "address_of_the_home": "Ujjawala  Home Kakching   Maching Manao Chinglak  PS &  PO  Kakching &  PO  Kakching Kakching District",
+        "mobile_email": "7005331514",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.976641103,
+          24.496782843,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "66",
+        "name": "UJS_66",
+        "name_of_implementing_agency": "Society  for Progressive Development Khurai Nandelbam Leikai  Imphal East \n",
+        "name1": "M  Meera Devi",
+        "designation": "Project Director",
+        "address_of_the_home": "Khurai Nandeibam Leikai  PO Lamlong Director",
+        "mobile_email": "9862917757",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.95541673,
+          24.816861113,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "67",
+        "name": "UJS_67",
+        "name_of_implementing_agency": "Centre  for Development Activities (CADAC)WangjingThoubal",
+        "name1": "Mrs  MRenuka Devi",
+        "designation": "Secretary",
+        "address_of_the_home": "Epamlamdam P&R Home  Tali Road Moreh Bazaar  P460 Moreh – 795131 Tengnoupal district",
+        "mobile_email": "8014546467",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.302327724,
+          24.249667304,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "68",
+        "name": "UJS_68",
+        "name_of_implementing_agency": "Integrated Rural Advancement Centre Palace Compund Imphal East",
+        "name1": "Robita Devi",
+        "designation": "Project Director",
+        "address_of_the_home": "Khuga Tampak  PO Churachandpur District",
+        "mobile_email": "8119945347",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.704476105,
+          24.348161926,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "69",
+        "name": "UJS_69",
+        "name_of_implementing_agency": "Society for Urban and Rural Upliftment Kakching Chumnang Leikai kakching",
+        "name1": "NKunjeshwari Devi",
+        "designation": "Project Director",
+        "address_of_the_home": "Kakching Chumnang Leikai  Opposite Leibaklei Gas kakching District",
+        "mobile_email": "8787312730",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.971416667,
+          24.504666667,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "70",
+        "name": "UJS_70",
+        "name_of_implementing_agency": "Universal Caring Mission Khurai ChaironthongImphal East",
+        "name1": "MsNomota",
+        "designation": "Project Director",
+        "address_of_the_home": "Bishnupur Bazaar  NganuLeima Leirak Ward  No  4 Bishnupur Municipal Council  Bishnupur District",
+        "mobile_email": "9774779532",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.762530915,
+          24.629145308,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "71",
+        "name": "UJS_71",
+        "name_of_implementing_agency": "Koubru Development Association Kangpokpi",
+        "name1": "Thangsat Kipgen",
+        "designation": "Project Director",
+        "address_of_the_home": "Salom Prayer y Healing Centre  Shalom Veng Kangpokpi Ward no 11  kangpokpi district HQ- 795129",
+        "mobile_email": "9436624332",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.964606035,
+          25.151109153,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "72",
+        "name": "UJS_72",
+        "name_of_implementing_agency": "Human Empowerment for  Social Integration(HESI) Khurai Nandeibam Leikai  Imphal East",
+        "name1": "Bidhya Thokchom",
+        "designation": "Project director",
+        "address_of_the_home": "Ward  no  4 Bishnupur Municipal Council   near Bishnupur  Bazaar Bishnupur  Bazaar Bishnupur district",
+        "mobile_email": "8787434158",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.762509002,
+          24.629138773,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "73",
+        "name": "UJS_73",
+        "name_of_implementing_agency": "Manipur Schedule Caste Welfare Association 20-Super Marketlamphel Imphal West",
+        "name1": "N B Singh",
+        "designation": "General Secretary",
+        "address_of_the_home": "20-Super Market  Lamphelpat  PO & PS Lamphel  Imphal West District",
+        "mobile_email": "9862497088",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.937516244,
+          24.782065742,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "74",
+        "name": "UJS_74",
+        "name_of_implementing_agency": "Rural Voluntary Services (RVS) WangbalThoubal",
+        "name1": "B Usharani Devi",
+        "designation": "Project Director",
+        "address_of_the_home": "Epamlamdam  P&R Home   Uyal lamboithong Wangbal  near SD Club Playground thoubal",
+        "mobile_email": "8415928358",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0367817,
+          24.6146515,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "75",
+        "name": "UJS_75",
+        "name_of_implementing_agency": "Environment & Economic Manamgment Association (EEMA) Keisampat Junction Imphal West",
+        "name1": "Radhapyari Sinam",
+        "designation": "Secretary",
+        "address_of_the_home": "P & R Home  keisampat Junction  Keisham Leiaki Imphal West District",
+        "mobile_email": "7005561701",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.935063484,
+          24.799562007,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "76",
+        "name": "UJS_76",
+        "name_of_implementing_agency": "Heuristic  and Enhanced Actions  for Life Sangakpam Bazaar  Imphal East",
+        "name1": "Sunil Meitei",
+        "designation": "Secretary",
+        "address_of_the_home": "Kumji-II  PO Noney Noney district",
+        "mobile_email": "9612778722",
+        "state": "Manipur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.624639365,
+          24.85924237,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "77",
+        "name": "UJS_77",
+        "name_of_implementing_agency": "Social Welfare &  Tribal Affairs Department",
+        "name1": "Dr  R Lalnunmawii",
+        "designation": "Superintendent",
+        "address_of_the_home": "Chanmari Aizwal West",
+        "mobile_email": "0389-2340721",
+        "state": "Mizoram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.71723288,
+          23.740729333,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "78",
+        "name": "UJS_78",
+        "name_of_implementing_agency": "School  of Social  WorkDimapur",
+        "name1": "YI Imchen Temsumeren Jamir",
+        "designation": "Executive Director Superintendent",
+        "address_of_the_home": "Opp Green Park  Sugar Mill Colony 5th Mile Dimapur",
+        "mobile_email": "7005648565 9612584407",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.762121745,
+          25.860738978,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "79",
+        "name": "UJS_79",
+        "name_of_implementing_agency": "Arun Institute of Rural Affairs",
+        "name1": "Suresh  Ku Panda",
+        "designation": "Secretary",
+        "address_of_the_home": "Shyamacharanapura Podistt – Dhenkanal",
+        "mobile_email": "Aira_dkl@yahoo co in  9938582607",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.621017986,
+          20.638433944,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "80",
+        "name": "UJS_80",
+        "name_of_implementing_agency": "Nikhila Utkal harijan Adivasi Seva Sangha",
+        "name1": "Ramesh Chandra Dikshit",
+        "designation": "Director",
+        "address_of_the_home": "At- Erei  Po- Charampa  distt Bhadrak",
+        "mobile_email": "nuhassbbsr@gmail com 9040268680",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.526422927,
+          21.090545416,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "81",
+        "name": "UJS_81",
+        "name_of_implementing_agency": "Rural Development Action  Cell Tulsichaura",
+        "name1": "Bijaya  Ku Behera",
+        "designation": "Secretary",
+        "address_of_the_home": "At- Tulasi Chaura  PoBaripada   distt Baripada   distt Mayurbhanj",
+        "mobile_email": "Rdac_mbj@yahoo co in 8437077784",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.73778623,
+          21.932124733,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "82",
+        "name": "UJS_82",
+        "name_of_implementing_agency": "Maharishi Dayanand Service Mission",
+        "name1": "Pradip  Ki Sahoo",
+        "designation": "Secretary",
+        "address_of_the_home": "Turanga  Similipada Po-dist Angul",
+        "mobile_email": "info@mdsmission org  9437528709",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.121515218,
+          20.847379918,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "83",
+        "name": "UJS_83",
+        "name_of_implementing_agency": "People’s Forum",
+        "name1": "Gobind  ChPattnaik",
+        "designation": "Secretary",
+        "address_of_the_home": "Plot No-114  Uttar Munda Muhana  Po-Janla  Ps Jatni  DisttKhurda",
+        "mobile_email": "peoplesforumindia@ hotmail com 9437282034",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.713866539,
+          20.216962708,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "84",
+        "name": "UJS_84",
+        "name_of_implementing_agency": "Pilliniketan",
+        "name1": "Bhakta Bandhu naik",
+        "designation": "President",
+        "address_of_the_home": "AtPo- malpara DisttBolangir - 767001",
+        "mobile_email": "Palliniketan123@rediffmail com 8280503002",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.492095518,
+          20.701217787,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "85",
+        "name": "UJS_85",
+        "name_of_implementing_agency": "Association for Voluntary Action",
+        "name1": "Duryodhan Panda",
+        "designation": "Secretary",
+        "address_of_the_home": "At- Dampur  Po –Berboi  Sundargarh",
+        "mobile_email": "Avaorg puriorissa@Rediffmail com 9437042482",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.75017001,
+          20.034129812,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "86",
+        "name": "UJS_86",
+        "name_of_implementing_agency": "Gangadhar Jubak Santha",
+        "name1": "Durgasankar Mohapatra",
+        "designation": "Secretary",
+        "address_of_the_home": "At-Po  – Ashramapara Bhawanipatna  distt Kalahandi – 766001",
+        "mobile_email": "gysangha@yahoo com 9438403909",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1633174,
+          19.8992882,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "87",
+        "name": "UJS_87",
+        "name_of_implementing_agency": "Gandhian Institute  of Technical Advancement",
+        "name1": "Prasant  Ku Mishra",
+        "designation": "Secretary",
+        "address_of_the_home": "Goutam  Nagar PoDistt Koraput –764020",
+        "mobile_email": "gitapmishra@ rediffmail com 9439539915",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.710072568,
+          18.802967992,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "88",
+        "name": "UJS_88",
+        "name_of_implementing_agency": "Society  for Upliftmentfor  poor through People Organization Research  & Training (SUPPORT)",
+        "name1": "Chindra Sekhaar Sahoo",
+        "designation": "Secretary",
+        "address_of_the_home": "Puruna  Garh Deogah Distt",
+        "mobile_email": "sdeogarh@gmail com 7789962101",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.723929417,
+          21.535726557,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "89",
+        "name": "UJS_89",
+        "name_of_implementing_agency": "Volundary Institute  for Rural Development",
+        "name1": "Manoj Satpathy",
+        "designation": "Director",
+        "address_of_the_home": "At-Titigaon Po-Aida Via-  Athamallick Odisha Distt Angul",
+        "mobile_email": "Virdangul2005@Yahoo co in  7008462567",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.53535031,
+          20.72413011,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "90",
+        "name": "UJS_90",
+        "name_of_implementing_agency": "Society  for Weaker Community",
+        "name1": "Sophia shaik",
+        "designation": "Secretary",
+        "address_of_the_home": "Shankarpur  Bhadark Distt",
+        "mobile_email": "swcbdkodisha@ gmail com  9437000489",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.513365262,
+          21.053752588,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "91",
+        "name": "UJS_91",
+        "name_of_implementing_agency": "AAINA",
+        "name1": "Sneha Mishra",
+        "designation": "Secretary",
+        "address_of_the_home": "Berhampur  Ganjam distt",
+        "mobile_email": "Aaina50@gmail com 9078088127",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.808098514,
+          19.30526705,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "92",
+        "name": "UJS_92",
+        "name_of_implementing_agency": "Indian Soceity for rural Developent",
+        "name1": "Sudhir Sabal",
+        "designation": "Secratary",
+        "address_of_the_home": "153   Swarnamayee Nagar   Berhampur  distt Ganjam",
+        "mobile_email": "isrdchildline@gmail com 9438406565",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.798372373,
+          19.308879058,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "93",
+        "name": "UJS_93",
+        "name_of_implementing_agency": "Nanne Munne Juba Chhatra Sansad",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Mohana   Gajapati Distt",
+        "mobile_email": "nmycsodisha@ yahoo com 9437223296",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.262813086,
+          19.44200455,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "94",
+        "name": "UJS_94",
+        "name_of_implementing_agency": "PRAKALPA",
+        "name1": "Biplab Mishra",
+        "designation": "Secretary",
+        "address_of_the_home": "AtPo – Jyotipur  distt  Keonjhar  Pin – 758046",
+        "mobile_email": "943056514",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.764096692,
+          21.900941093,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "95",
+        "name": "UJS_95",
+        "name_of_implementing_agency": "Viswa Jeevan Seva Sangha",
+        "name1": "Baida Natha Barala",
+        "designation": "Secretary",
+        "address_of_the_home": "At- Sardhapur  Po- Garhsanpur  distt – Khurda",
+        "mobile_email": "Vjss_khurda@yahoo co in 9437286593",
+        "state": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.585729944,
+          20.183348019,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "96",
+        "name": "UJS_96",
+        "name_of_implementing_agency": "Bhairabi Club",
+        "name1": "Baikuntha nath Martha",
+        "designation": "Secretary",
+        "address_of_the_home": "At- Samantarapur  distt Khurda Pin -752055",
+        "mobile_email": "Bhairabi_27@yahoo com 9437177490",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.625250361,
+          20.178833982,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "97",
+        "name": "UJS_97",
+        "name_of_implementing_agency": "Juba  Jyoti Subranapur Sanstha",
+        "name1": "Chandeswara Jayasingh",
+        "designation": "Secretary",
+        "address_of_the_home": "At-Gokaneswarapada Po- Sonepur  distt Subranapur",
+        "mobile_email": "jubajyoti@gmail com 9438530830",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.894305526,
+          20.849555499,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "98",
+        "name": "UJS_98",
+        "name_of_implementing_agency": "National Rural Development Cooreration (NRDC)",
+        "name1": "Hemata  Ku Mohanty",
+        "designation": "Secretary",
+        "address_of_the_home": "AtPo- Tarabha  distt Subarnapur   Pin 767016",
+        "mobile_email": "nrdcodisha@rediffmail com 9437195974",
+        "state": "Nagaland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.670997843,
+          20.739500282,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "99",
+        "name": "UJS_99",
+        "name_of_implementing_agency": "Muskan Sansthan Dungarpur",
+        "name1": "Mr Bharat Nagda",
+        "designation": "",
+        "address_of_the_home": "Choubisa Samaj ka Nohra  Mohalla ghati Dungarpur Opposite Goskhan Dara  Chandmari  Gangtok  East Sikkim distt",
+        "mobile_email": "wrdtti@yahoo com 9413306768",
+        "state": "Rajasthan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7052883,
+          23.8412305,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "100",
+        "name": "UJS_100",
+        "name_of_implementing_agency": "Subha  Laxmi  Social Organization",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Opposite Goskhan Dara  Chandmari  Gangtok  East Sikkim distt",
+        "mobile_email": "",
+        "state": "Sikkim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6233448,
+          27.3382797,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "101",
+        "name": "UJS_101",
+        "name_of_implementing_agency": "Rural Education for Community Organization (RECO)",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "12  Dharun Complex  Chola Real Estate  Thirugokarnam Post  Pudukkottai Distt – 622002",
+        "mobile_email": "Indiareco2008@rediff mail com   9600228482",
+        "state": "Tamil Nadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.807435583,
+          10.387073788,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "102",
+        "name": "UJS_102",
+        "name_of_implementing_agency": "Society  for rural Development for Promotion Services(SRDPS)",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "4371  Psumai Nagar (N Ear Pachal railway Gate)  Pachal Post – 635601  tirupattur district",
+        "mobile_email": "srdps@hotmail com   9443437647",
+        "state": "Tamil Nadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5635011,
+          12.5081289,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "103",
+        "name": "UJS_103",
+        "name_of_implementing_agency": "Madras  Christian Council of Social Service(MCCSS)",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "21  6th Main road  Jawahar Nagar  Chennai – 600082",
+        "mobile_email": "Isabelrichard2017@gmail com 9444027375",
+        "state": "Tamil Nadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.227135,
+          13.110998,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "104",
+        "name": "UJS_104",
+        "name_of_implementing_agency": "FORD Trust",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Kudil   Maruthangudi  Siruvayal Post  karaikudi – 630214  Sivagangai Distt",
+        "mobile_email": "fordtrustindia@yahoo COM 9788979901",
+        "state": "Tamil Nadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6642151,
+          10.1149533,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "105",
+        "name": "UJS_105",
+        "name_of_implementing_agency": "Bharathmatha family Welfare Foundation",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "23  B   Mannai  road  Tiruturaipundi – 614713  Tiruvarur Distt",
+        "mobile_email": "ourbharathamatha@yahoo co in 9442221918",
+        "state": "Tamil Nadu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.639641711,
+          10.531812728,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "106",
+        "name": "UJS_106",
+        "name_of_implementing_agency": "People Environmental Action For Community Education(PEACE)",
+        "name1": "Smt  PAnuradha",
+        "designation": "President",
+        "address_of_the_home": "HNo 1-755351  Sai Bhavani Nagar  Boduppal  Medchel District – 500039",
+        "mobile_email": "peacewomen93@gmail com 9490712577",
+        "state": "Telangana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.576029669,
+          17.416473858,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "107",
+        "name": "UJS_107",
+        "name_of_implementing_agency": "Gram Vikas",
+        "name1": "Sri  VSatyanara na Reddy",
+        "designation": "Director",
+        "address_of_the_home": "HNo 11-12-32D  Dwaraka Nagar Khammam District",
+        "mobile_email": "grama1011kmm@gmail com 8790873474",
+        "state": "Telangana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.164497912,
+          17.247405871,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "108",
+        "name": "UJS_108",
+        "name_of_implementing_agency": "Sri Siwaa Priya Academy",
+        "name1": "Sri  AVenkata Reddy",
+        "designation": "President",
+        "address_of_the_home": "HNo 5-4-1911  BS Complex   Opp  Old Collectorate  Prakasham Bazar  Nalgonda District TS",
+        "mobile_email": "9494990555 9010295555",
+        "state": "Telangana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.267132894,
+          17.053363426,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "109",
+        "name": "UJS_109",
+        "name_of_implementing_agency": "Kasturba Gandhi National Memorial Trust",
+        "name1": "Smt  PPadmavathi",
+        "designation": "In-charge",
+        "address_of_the_home": "Mahila and Vikasa Kendra  Hyderabad Kendra   Via Langerhouse  Golkonda Post  Hyderabad – 8  TS",
+        "mobile_email": "040-20021419  2419419 Fax – 040-27801688 kgnmthyd@yahoo com  & kgnmtrusthyd@gmail com",
+        "state": "Telangana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.420742785,
+          17.37841159,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "110",
+        "name": "UJS_110",
+        "name_of_implementing_agency": "Urban  Mahila Development Society",
+        "name1": "Smt  KVijayalax mi",
+        "designation": "General Secretary",
+        "address_of_the_home": "HNo 41-2411  Teachers Colony Wanaparthy District",
+        "mobile_email": "08545-231761 9985772252 umds 2581@yahoo co m",
+        "state": "Telangana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.057504481,
+          16.355113481,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "111",
+        "name": "UJS_111",
+        "name_of_implementing_agency": "Pragati  Seva Sansthan",
+        "name1": "Kalpana Singh",
+        "designation": "Project",
+        "address_of_the_home": "115190  J Masawanpur Kanpur Nagar – 208019",
+        "mobile_email": "Kanpur pragati kalpana@gmail com 9450339909",
+        "state": "Uttar Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2625917,
+          26.4834001,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "112",
+        "name": "UJS_112",
+        "name_of_implementing_agency": "Lok  Sewa Evam Gramin Prodhogiki vikas Sansthan",
+        "name1": "Vishnu Lal Maurya",
+        "designation": "President",
+        "address_of_the_home": "878   Awadhpuri  colony Phase-II Beniganj Ayodhya",
+        "mobile_email": "loksewasansthanfzd@r ediffmail com  9839722590",
+        "state": "Uttar Pradesh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.17556137,
+          26.78094434,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "113",
+        "name": "UJS_113",
+        "name_of_implementing_agency": "Rural  Environmental & Educational Development Society",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Reedsll   41  Ambag  Tanakpur   Distt Champawat",
+        "mobile_email": "ppsamiti@gmail com   9412019897",
+        "state": "Uttarakhand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.096564978,
+          29.073292636,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "114",
+        "name": "UJS_114",
+        "name_of_implementing_agency": "Creative  Attempts in Rural Development Society",
+        "name1": "Surendra Arya",
+        "designation": "",
+        "address_of_the_home": "Jhakni Tiraha  Jhulaghat Road Pithoragarh distt",
+        "mobile_email": "9690649372 9410183070",
+        "state": "Uttarakhand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.220649587,
+          29.58235087,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "115",
+        "name": "UJS_115",
+        "name_of_implementing_agency": "Ujjawala reeds Lohani Indresh",
+        "name1": "",
+        "designation": "",
+        "address_of_the_home": "Ujawala Card Pith Subhash Pangaria Distt",
+        "mobile_email": "9719494987 9690649372",
+        "state": "Uttarakhand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.090515691,
+          29.335424647,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "116",
+        "name": "UJS_116",
+        "name_of_implementing_agency": "Haripur Amra Sabai Unnayan Samity",
+        "name1": "Bhim Das",
+        "designation": "Secretary",
+        "address_of_the_home": "Bijoygarh Bazar Laxmikantapur Dist South 24 Parganas",
+        "mobile_email": "9932143627  hasusoo@rediffm ail com",
+        "state": "West Bengal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3214967,
+          22.1113999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gid": "117",
+        "name": "UJS_117",
+        "name_of_implementing_agency": "Women’s Interlink",
+        "name1": "Shikha Mitra",
+        "designation": "Superintendent",
+        "address_of_the_home": "Pandapara   Dist Jalpaiguri",
+        "mobile_email": "9836648767  9474324095    wifkolkata@gmail com",
+        "state": "West Bengal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.71691152,
+          26.503653687,
+          0
+        ]
+      }
+    }
+  ]
