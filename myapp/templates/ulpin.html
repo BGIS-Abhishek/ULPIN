@@ -8,7 +8,7 @@
         <thead>
           <tr>
             <th scope="col">Id</th>
-            <th scope="col">District</th>
+            <th scope="col">Parcel</th>
             <th scope="col">Latitude</th>
             <th scope="col">Longitude</th>
           </tr>
@@ -16,37 +16,19 @@
         <tbody>
           <tr>
             <th scope="row">{{ ulpin.id }}</th>
-            <td>{{ ulpin.district }}</td>
-            <td>{{ ulpin.latitude }}</td>
-            <td>{{ ulpin.longitude }}</td>
+            <td>{{ ulpin.pid }}</td>
+            <td>{{ ulpin.centroid.y }}</td>
+            <td>{{ ulpin.centroid.x }}</td>
           </tr>
         </tbody>
       </table>
 </div>
 
   <script>
-    let lat = Number('{{ ulpin.latitude }}');
-    let long = Number('{{ ulpin.longitude }}');
+    let lat = Number('{{ ulpin.centroid.y }}');
+    let long = Number('{{ ulpin.centroid.x }}');
       function map_init_basic (map, options) {
          L.marker([lat, long]).addTo(map);
-
-         function onLocationFound(e) {
-              var radius = e.accuracy / 2;
-
-              L.marker(e.latlng).addTo(map)
-                  .bindPopup("You are within " + radius + " meters from this point").openPopup();
-
-              L.circle(e.latlng, radius).addTo(map);
-          }
-
-          function onLocationError(e) {
-              alert(e.message);
-          }
-
-          map.on('locationfound', onLocationFound);
-          map.on('locationerror', onLocationError);
-
-          map.locate({setView: true, maxZoom: 16})
     }
   </script>
 {% endblock	%}

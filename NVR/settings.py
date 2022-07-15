@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.gis',
     'leaflet',
     'myapp',
 ]
@@ -83,7 +84,7 @@ DATABASES = {
     #     'NAME': BASE_DIR / 'db.sqlite3',
     # }
      'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'postgres',
         'USER': 'bhugolgis',
         'PASSWORD': '',
@@ -141,10 +142,9 @@ MEDIA_ROOT = os.path.join(BASE_DIR,	'media/')
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-GDAL_LIBRARY_PATH = "/opt/homebrew/Cellar/gdal/3.5.0_1/lib/libgdal.dylib" 
-GEOS_LIBRARY_PATH = "/opt/homebrew/Cellar/geos/3.10.3/lib/libgeos_c.dylib"
+GDAL_LIBRARY_PATH = "/opt/homebrew/Cellar/gdal/3.5.1/lib/libgdal.dylib" 
+GEOS_LIBRARY_PATH = "/opt/homebrew/Cellar/geos/3.11.0/lib/libgeos_c.dylib"
 
 LEAFLET_CONFIG = {
-    'SPATIAL_EXTENT': (68.14712,23.63936, 97.34466,28.20453),
-    
+    'SPATIAL_EXTENT': (68.14712,23.63936, 97.34466,28.20453), 
 }
